@@ -1,4 +1,4 @@
-# Prediction-Of-Car-Prices
+# Prediction Of Car Prices
 ![Car logo](https://github.com/charan9874/Car_Price_Prediction/blob/main/proj_5.webp)
 
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts. 
